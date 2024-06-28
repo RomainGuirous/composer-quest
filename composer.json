@@ -1,0 +1,17 @@
+{
+    "name": "romai/quete2",
+    "description": "quete 2 composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RomainGuirous",
+            "email": "romaing_59@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
